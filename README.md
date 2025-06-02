@@ -75,7 +75,7 @@ Demonstrates full Power BI workflow: data cleaning, modeling, DAX, and visualiza
 
 Designed for real business use cases: sales tracking, customer profiling, product analysis
 
-*Interactive, clean, and easy-to-navigate dashboards
+Interactive, clean, and easy-to-navigate dashboards
 
 📚 *This dashboard was created as part of my [Power BI Certification Course](https://ude.my/UC-8ab6b692-6932-4600-9c5c-daa418a9c8d2), focused on real-world data modeling, DAX, and dashboard design projects.*
 
