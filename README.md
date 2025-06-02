@@ -15,7 +15,7 @@ This Power BI dashboard helps stakeholders quickly understand overall business p
    Focus: KPIs, revenue trend charts
 📷 [View Executive Summary Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%201.png)
 
-Shows core KPIs: Total Revenue, Profit, Shows core KPIs: Total Revenue, Profit, Orders, and Return Rate
+Shows core KPIs: Total Revenue, Profit, Orders, and Return Rate
 
 Includes additional KPIs: Monthly Orders, Revenue, and Profit, with comparison to the previous month
 
