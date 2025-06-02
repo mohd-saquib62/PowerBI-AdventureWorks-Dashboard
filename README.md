@@ -15,39 +15,45 @@ This Power BI dashboard helps stakeholders quickly understand overall business p
    Focus: KPIs, revenue trend charts
 📷 [View Executive Summary Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%201.png)
 
-*Displays Total Revenue, Profit, Sales Volume, and Profit Margin
+Shows core KPIs: Total Revenue, Profit, Orders, and Return Rate
 
-*Includes trend charts to track business performance over time
+Includes additional KPIs: Monthly Orders, Revenue, and Profit, with comparison to the previous month
+
+Displays Revenue Trends over time
+
+Breaks down Product Revenue by Sub-Category segments
 
 2. Customer Segmentation (Map View)
    Focus: Geographical segmentation
 📷 [View Map (Customer Segmentation) Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%202.png)
 
-*Maps customer locations by region
+Maps customer locations by region
 
-*Identifies high-performing areas for focused marketing
+Identifies high-performing areas for focused marketing
 
 3. Product Details
    Focus: Product-level performance
 📷 [View Product Details Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%203.png)
 
-*Shows comprehensive details for a specific product selected
+Shows comprehensive details for a specific product selected
 
-*Displays key metrics such as total orders, revenue, profit, returns, and return rate
+Displays key metrics such as total orders, revenue, profit, returns, and return rate
 
-"Compares actual vs target performance for revenue, orders, and profit
+Compares actual vs target performance for revenue, orders, and profit
 
-*Includes an interactive price adjustment slider (range: -1 to +1) to simulate impact on revenue and profit
+Includes an interactive price adjustment slider (range: -1 to +1) to simulate impact on revenue and profit
 
 4. Customer Details
    Focus: Customer demographics and trends
 📷 [View Customer Details Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%204.png)
 
-*Displays sales trends and performance metrics on dashboard page 4
+Shows KPIs including Total Customers and Revenue per Customer
 
-*Segments customers by income and education level
+Segments customers based on Education Level and Income Level
 
-*Displays top customers and purchasing trends
+Displays Customer Trends over time using a line chart
+
+Highlights the Top 100 Customers based on revenue or order volume
 
 🛠 Tools & Skills Used
 
@@ -63,9 +69,9 @@ Interactive Dashboards & Visualizations
 
 ✅ Key Highlights
 
-*Demonstrates full Power BI workflow: data cleaning, modeling, DAX, and visualization
+Demonstrates full Power BI workflow: data cleaning, modeling, DAX, and visualization
 
-*Designed for real business use cases: sales tracking, customer profiling, product analysis
+Designed for real business use cases: sales tracking, customer profiling, product analysis
 
 *Interactive, clean, and easy-to-navigate dashboards
 
