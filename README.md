@@ -31,11 +31,13 @@ This Power BI dashboard helps stakeholders quickly understand overall business p
    Focus: Product-level performance
 📷 [View Product Details Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%203.png)
 
-*Shows detailed analytics and KPIs on page 3 of the dashboard
+*Shows comprehensive details for a specific product selected
 
-*Highlights top-selling and underperforming products
+*Displays key metrics such as total orders, revenue, profit, returns, and return rate
 
-*Shows revenue and profit by category and sub-category
+"Compares actual vs target performance for revenue, orders, and profit
+
+*Includes an interactive price adjustment slider (range: -1 to +1) to simulate impact on revenue and profit
 
 4. Customer Details
    Focus: Customer demographics and trends
