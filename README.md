@@ -16,6 +16,7 @@ This Power BI dashboard helps stakeholders quickly understand overall business p
 📷 [View Executive Summary Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%201.png)
 
 *Displays Total Revenue, Profit, Sales Volume, and Profit Margin
+
 *Includes trend charts to track business performance over time
 
 2. Customer Segmentation (Map View)
@@ -23,6 +24,7 @@ This Power BI dashboard helps stakeholders quickly understand overall business p
 📷 [View Map (Customer Segmentation) Screenshot](https://github.com/mohd-saquib62/PowerBI-AdventureWorks-Dashboard/blob/main/Dashboard%20Page%202.png)
 
 *Maps customer locations by region
+
 *Identifies high-performing areas for focused marketing
 
 3. Product Details
@@ -31,8 +33,8 @@ This Power BI dashboard helps stakeholders quickly understand overall business p
 
 *Shows detailed analytics and KPIs on page 3 of the dashboard
 
-
 *Highlights top-selling and underperforming products
+
 *Shows revenue and profit by category and sub-category
 
 4. Customer Details
@@ -42,20 +44,27 @@ This Power BI dashboard helps stakeholders quickly understand overall business p
 *Displays sales trends and performance metrics on dashboard page 4
 
 *Segments customers by income and education level
+
 *Displays top customers and purchasing trends
 
 🛠 Tools & Skills Used
 
 Power BI Desktop
+
 DAX (Data Analysis Expressions)
+
 M Code (Power Query Editor)
+
 Data Modeling & Relationships
+
 Interactive Dashboards & Visualizations
 
 ✅ Key Highlights
 
 *Demonstrates full Power BI workflow: data cleaning, modeling, DAX, and visualization
+
 *Designed for real business use cases: sales tracking, customer profiling, product analysis
+
 *Interactive, clean, and easy-to-navigate dashboards
 
 📚 *This dashboard was created as part of my [Power BI Certification Course](https://ude.my/UC-8ab6b692-6932-4600-9c5c-daa418a9c8d2), focused on real-world data modeling, DAX, and dashboard design projects.*
